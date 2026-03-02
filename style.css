@@ -1,1 +1,8 @@
+#hero{
+    background:black;
+    opacity: 0.5;
 
+}
+#hero-text{
+    opacity: 1;
+}
